@@ -2,7 +2,7 @@
 To contribute to the open source community and to enhance the project's quality by allowing all to contribute to it, we've made the decision to open source a selected portion of the code used in our game, Ravenian Heroes.
 
 # Licensing
-## This repository and it's content is protected under the Creative Commons 4.0 License - Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)
+## This work is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License.
 ### This means:
  - Attribution — You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
  - NonCommercial - You may not use the material for commercial purposes;
