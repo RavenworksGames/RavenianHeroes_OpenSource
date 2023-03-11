@@ -17,7 +17,7 @@ The purpose is to encourage people to learn and practice, not make profit.
 
 If you violate this policy, regardless of the platform, we will file a DMCA claim.
 
-# Ravenian Heroes (Open Source)
+## Chinese (Simplified) version for above text
 为了对开源社区做出贡献，并通过允许所有人对其做出贡献来提高项目的质量，我们决定将我们的游戏《鹰之英雄》中所使用的部分代码开源。
 
 # 许可证
