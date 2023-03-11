@@ -49,7 +49,7 @@ identification of the creator(s) of the Licensed Material and any others designa
 a copyright notice;
 a notice that refers to this Public License;
 a notice that refers to the disclaimer of warranties;
-a URL or hyperlink to the Licensed Material to the extent reasonably practicable;
+a URI or hyperlink to the Licensed Material to the extent reasonably practicable;
 indicate if You modified the Licensed Material and retain an indication of any previous modifications; and
 indicate the Licensed Material is licensed under this Public License, and include the text of, or the URI or hyperlink to, this Public License.
 For the avoidance of doubt, You do not have permission under this Public License to Share Adapted Material.
