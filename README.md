@@ -8,7 +8,7 @@ To contribute to the open source community and to enhance the project's quality 
  - NonCommercial - You may not use the material for commercial purposes;
  - NoDerivatives - If you remix, transform, or build upon the material, you may not distribute the modified material.
 
-Learn more about the licensing of this repository in ``license.md``.
+Learn more about the licensing of this repository in ``LICENSE.md``.
 
 We take copyright very seriously. We will be filing a legal claim against any violations of this policy.
 
@@ -27,7 +27,7 @@ If you violate this policy, regardless of the platform, we will file a DMCA clai
  - 非商业性使用-你不得将材料用于商业目的。
  - 禁止演绎-如果你重新混合、改造或构建材料，你不得分发修改后的材料。
 
-在``license.md``中了解更多关于这个资源库的许可。
+在``LICENSE.md``中了解更多关于这个资源库的许可。
 
 我们非常重视版权问题。我们将对任何违反此政策的行为提出法律索赔。
 
